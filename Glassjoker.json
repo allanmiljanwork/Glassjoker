@@ -1,0 +1,10 @@
+{
+    "id": "GlassJokerMod",
+    "name": "Glass Joker",
+    "author":["allanmiljan"],
+    "description": "A Balatro Joker that prevents glass cards from ever breaking",
+    "prefix": "glassjoker",
+    "main_file": "glassjoker.lua",
+    "Version": "1.0.0"
+    
+}
